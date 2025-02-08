@@ -1,8 +1,14 @@
-# React + Vite
+React Job Board 🖥️💼
+A React-based Job Board web application that allows users to browse, add, edit, and manage job listings. Built using React, React Router, and JSON Server for a seamless and interactive job management experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+🗂 Job Listings: View a list of available jobs with detailed descriptions.
+➕ Add Job: Submit new job listings with full details (type, title, salary, company info, etc.).
+✏️ Edit Job: Easily update job details with an intuitive form.
+❌ Delete Job: Remove outdated or irrelevant job listings.
+🔄 Real-time updates: Interact with the job listings using CRUD operations.
+Technologies Used
+React (Hooks, Functional Components)
+React Router (Client-side routing)
+JSON Server (Mock REST API for job data)
+Tailwind CSS (for responsive and modern UI)
